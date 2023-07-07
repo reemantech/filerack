@@ -10,3 +10,7 @@ Now you are good to go with the file organizer `filerack`
 
 **Requirements**
 1. nodejs should be installed in the system
+
+
+**Credits**
+The credit for this project goes to Jasbir Singh and PepCoding {https://www.youtube.com/watch?v=KD9xWuprK-4}
