@@ -7,7 +7,7 @@
 3. then type: `npm link`
 
 Now you are good to go with the file organizer `filerack`
-
+Open `CMD` and type `filerack help` to know more
 **Requirements**
 1. nodejs should be installed in the system
 
